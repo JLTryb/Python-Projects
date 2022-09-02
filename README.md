@@ -1,2 +1,2 @@
-# Word-Cloud
-Word Cloud Generator in Python
+# Some of my Python projects
+
